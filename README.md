@@ -17,7 +17,7 @@ This is a real data example on breast-cancer-wisconsin data, the data is downloa
 
 ## Experiment 4
 
-This is a real data example on Gene Expression Data
+This is a real data example on Gene Expression Data, the data is not published, please email the authors of the paper "Bayesian data integration and variable selection for pan-cancer survival prediction using protein expression data" for permission.
 
 ## Experiement 5
 
