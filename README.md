@@ -15,4 +15,12 @@ This is a synthetic logistic regression example.
 
 This is a real data example on breast-cancer-wisconsin data, the data is downloaded from https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
 
+## Experiment 4
+
+This is a real data example on Gene Expression Data
+
+## Experiement 5
+
+This is a real data example on Plummer's example as illustrated in the paper.
+
 
